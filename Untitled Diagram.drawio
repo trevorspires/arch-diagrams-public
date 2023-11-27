@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T19:31:56.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QbJunrqkJ8wx4dvP7bva" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T19:33:24.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2FiSYx53YvQJaD41oQn3" version="22.1.4" type="github">
   <diagram name="Page-1" id="sZaRFY_wS3xeuETo2kx1">
     <mxGraphModel dx="1243" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -227,7 +227,7 @@
         <mxCell id="Anqft-yjqPqL2RH1cFlM-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Frantic Search&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
           <mxGeometry x="630" y="304" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Anqft-yjqPqL2RH1cFlM-145" value="How convert dog to puppy?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#FFFFFF;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
+        <mxCell id="Anqft-yjqPqL2RH1cFlM-145" value="How can I&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;outsmart dog?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#FFFFFF;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
           <mxGeometry x="142" y="170" width="130" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-146" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
@@ -335,7 +335,7 @@
             <mxPoint x="809.97" y="334.5800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anqft-yjqPqL2RH1cFlM-53" value="New Design" parent="0" />
+        <mxCell id="Anqft-yjqPqL2RH1cFlM-53" value="New Design" visible="0" parent="0" />
         <mxCell id="Anqft-yjqPqL2RH1cFlM-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-53">
           <mxGeometry x="80" y="70" width="910" height="490" as="geometry" />
         </mxCell>
@@ -397,7 +397,7 @@
           <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-73" value="How can I &lt;br&gt;outsmart dog?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#FFFFFF;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-53">
-          <mxGeometry x="142" y="170" width="130" height="78" as="geometry" />
+          <mxGeometry x="144" y="178" width="130" height="78" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-77" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-53">
           <mxGeometry x="90" y="1030" width="890" height="570" as="geometry" />
