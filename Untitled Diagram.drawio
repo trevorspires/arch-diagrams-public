@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T17:33:40.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_iCCbKhbTFW9tL-gKcxf" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T17:57:49.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="If-qExuWX_D-_HoYlNKm" version="22.1.5" type="github">
   <diagram name="Page-1" id="sZaRFY_wS3xeuETo2kx1">
-    <mxGraphModel dx="2294" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="Anqft-yjqPqL2RH1cFlM-124" value="Before" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Anqft-yjqPqL2RH1cFlM-128" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png;imageBackground=none;" parent="Anqft-yjqPqL2RH1cFlM-124" vertex="1">
           <mxGeometry x="310" y="270" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="Anqft-yjqPqL2RH1cFlM-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Manual Search Across Systems&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Anqft-yjqPqL2RH1cFlM-124" vertex="1">
+        <mxCell id="Anqft-yjqPqL2RH1cFlM-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Manual Search Across Systems&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="Anqft-yjqPqL2RH1cFlM-124" vertex="1">
           <mxGeometry x="630" y="304" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-146" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="Anqft-yjqPqL2RH1cFlM-124" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="jUoqrsleVEC9LtxdXnYX-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Help_and_Support.svg;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
           <mxGeometry x="479.48" y="280" width="73.04" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jUoqrsleVEC9LtxdXnYX-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Support Scripts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
+        <mxCell id="jUoqrsleVEC9LtxdXnYX-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Support Scripts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-124">
           <mxGeometry x="456" y="373.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-53" value="After" parent="0" visible="0" />
@@ -186,7 +186,7 @@
           <mxGeometry x="310" y="270" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-72" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Prompt&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
-          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-73" value="How can I delete a user to comply with GDPR?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#FFFFFF;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
           <mxGeometry x="123" y="164" width="170" height="106" as="geometry" />
@@ -335,8 +335,8 @@
             <mxPoint x="638.55" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Anqft-yjqPqL2RH1cFlM-198" value="&lt;b&gt;Delete API&lt;br&gt;(RTBF)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
-          <mxGeometry x="601" y="565.07" width="80" height="40" as="geometry" />
+        <mxCell id="Anqft-yjqPqL2RH1cFlM-198" value="&lt;b&gt;API&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
+          <mxGeometry x="621" y="560" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Anqft-yjqPqL2RH1cFlM-206" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
           <mxGeometry x="119" y="280" width="94" height="94" as="geometry" />
@@ -375,10 +375,10 @@
           <mxGeometry x="7.5" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jUoqrsleVEC9LtxdXnYX-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Help_and_Support.svg;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-53">
-          <mxGeometry x="453.48" y="373.38" width="73.04" height="90" as="geometry" />
+          <mxGeometry x="453.48" y="380" width="73.04" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jUoqrsleVEC9LtxdXnYX-5" value="Support In The Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Anqft-yjqPqL2RH1cFlM-53">
-          <mxGeometry x="420" y="475" width="130" height="30" as="geometry" />
+          <mxGeometry x="430" y="470" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
