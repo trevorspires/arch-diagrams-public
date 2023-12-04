@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:27:51.413Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BvnrRxN9kv0i74NlIzl3" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T14:28:15.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KchREpdeBkTaSCMD02R0" version="22.1.5" type="github">
   <diagram name="Page-1" id="sZaRFY_wS3xeuETo2kx1">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -308,8 +308,8 @@
         <mxCell id="KPeKn26dMngvvZ1dgBPD-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.financial_services;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
           <mxGeometry x="239.5381818181819" y="243" width="78.36879432624107" height="81.63017860231788" as="geometry" />
         </mxCell>
-        <mxCell id="KPeKn26dMngvvZ1dgBPD-24" value="Case Mgmt&amp;nbsp;&lt;br&gt;(SaaS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
-          <mxGeometry x="235" y="202" width="90" height="40" as="geometry" />
+        <mxCell id="KPeKn26dMngvvZ1dgBPD-24" value="Chatbot Interface&amp;nbsp;&lt;br&gt;(Streamlit)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
+          <mxGeometry x="220" y="202" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KPeKn26dMngvvZ1dgBPD-27" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="Anqft-yjqPqL2RH1cFlM-53" vertex="1">
           <mxGeometry x="315.11999999999995" y="193" width="31.79" height="40" as="geometry" />
